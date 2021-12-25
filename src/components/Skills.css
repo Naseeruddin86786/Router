@@ -1,0 +1,12 @@
+.skills {
+    color:rgb(35, 3, 47);
+    background: #a86c23;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    padding: 20px;
+    display: inline-block;
+}
+
+.skills ul li {
+    list-style: none;
+}

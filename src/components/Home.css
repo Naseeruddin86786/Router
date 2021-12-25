@@ -1,0 +1,13 @@
+
+.home{
+font-size: 15px;
+color:rgb(52, 4, 70);
+background: #23a8a8;
+display: inline-block;
+font-family:'Times New Roman', Times, serif ;
+line-height: 40px;
+}
+
+.home span {
+    color: rgb(21, 139, 0);
+}

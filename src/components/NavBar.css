@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+    background-color: rgb(139, 189, 48);
+    
+}
+
+.navbar li {
+    display: flex;
+    justify-content: space-around;
+    height: 60px;
+    padding-top: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+
+.navbar li :hover {
+    color: rgb(0, 255, 234);
+}
