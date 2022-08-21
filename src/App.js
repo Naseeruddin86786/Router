@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       {/* <Router> */}
-      <img src="./Naseer.jpeg"/>
+     
       <NavBar/>
       <Switch>
         <Route path='/' exact component={Home}/>
